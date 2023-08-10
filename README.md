@@ -1,2 +1,2 @@
-# To-do-list
-Its just a to do list
+# This is made by AI
+thats it.
